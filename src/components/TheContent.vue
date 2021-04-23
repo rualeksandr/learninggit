@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import ProducgjhgjhgtItem from './ProductItem.vue'
+import ProductgjhghjItem from './ProductItem.vue'
 import apiService from '../api/apiService'
 
 export default {
